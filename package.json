@@ -1,0 +1,21 @@
+{
+  "name": "cccc",
+  "version": "1.11.1",
+  "description": "3e3e3",
+  "main": "c",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "l"
+  },
+  "keywords": [
+    "olol"
+  ],
+  "author": "me",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
